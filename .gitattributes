@@ -1,2 +1,3 @@
 *.pdf linguist-documentation=true
 *.png linguist-documentation=true
+*.sql linguist-detectable=true
